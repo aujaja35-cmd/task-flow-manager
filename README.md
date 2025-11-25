@@ -91,7 +91,7 @@ Preview the production build:
 npm run preview
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 group9-task-manager/
