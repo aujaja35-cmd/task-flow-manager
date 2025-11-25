@@ -1,0 +1,79 @@
+{
+  "tasks": [
+    {
+      "id": "task_1",
+      "description": "Complete project documentation and submit final report",
+      "status": "pending",
+      "priority": "high",
+      "category": "work",
+      "dueDate": "2025-12-01",
+      "createdAt": "2025-11-20T10:00:00.000Z"
+    },
+    {
+      "id": "task_2",
+      "description": "Buy groceries for the week",
+      "status": "pending",
+      "priority": "medium",
+      "category": "shopping",
+      "createdAt": "2025-11-21T14:30:00.000Z"
+    },
+    {
+      "id": "task_3",
+      "description": "Review code changes and merge pull requests",
+      "status": "completed",
+      "priority": "medium",
+      "category": "work",
+      "createdAt": "2025-11-19T09:00:00.000Z",
+      "completedAt": "2025-11-22T16:45:00.000Z"
+    },
+    {
+      "id": "task_4",
+      "description": "Schedule annual health checkup appointment",
+      "status": "pending",
+      "priority": "low",
+      "category": "health",
+      "dueDate": "2025-12-15",
+      "createdAt": "2025-11-18T11:20:00.000Z"
+    },
+    {
+      "id": "task_5",
+      "description": "Prepare presentation for team meeting",
+      "status": "pending",
+      "priority": "high",
+      "category": "work",
+      "dueDate": "2025-11-28",
+      "createdAt": "2025-11-22T08:15:00.000Z"
+    },
+    {
+      "id": "task_6",
+      "description": "Complete online course module 3",
+      "status": "pending",
+      "priority": "medium",
+      "category": "education",
+      "dueDate": "2025-12-05",
+      "createdAt": "2025-11-20T15:00:00.000Z"
+    },
+    {
+      "id": "task_7",
+      "description": "Plan weekend hiking trip",
+      "status": "pending",
+      "priority": "low",
+      "category": "personal",
+      "createdAt": "2025-11-21T18:30:00.000Z"
+    },
+    {
+      "id": "task_8",
+      "description": "Update project dependencies and test compatibility",
+      "status": "completed",
+      "priority": "high",
+      "category": "work",
+      "createdAt": "2025-11-17T10:00:00.000Z",
+      "completedAt": "2025-11-20T14:20:00.000Z"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2025-11-25",
+    "description": "Sample tasks for Group 9 Simple Task Manager Application"
+  }
+}
