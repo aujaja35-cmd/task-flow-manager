@@ -51,7 +51,7 @@ This project is intended for personal use, helping individuals organize and mana
 1. **Clone or download the project**
    ```bash
    git clone <repository-url>
-   cd group9-task-manager
+   cd personal-task-manager
    ```
 
 2. **Install dependencies**
